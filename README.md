@@ -67,3 +67,7 @@ Future Improvements
 - Add more features
 - Enhance UI design
 - Deploy advanced version with better predictions
+
+## 🚀 Live Demo
+
+🔗 [Loan Approval Prediction App](https://loanapprovalpredictions-dqzgmejty2jbhlf7pprw3x.streamlit.app/)
